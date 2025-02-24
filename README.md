@@ -8,7 +8,7 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
-Software engineering is all about writing instructions ie code, building, testing and maintaining software that make our lives better
+Software engineering is all about writing instructions ie code, building, testing and maintaining software that make our lives better.
 
 software engineering is important in the tech industry as it drives innovation by enabling the creation of new technologies, applications and  solutions that improve our lives eg in healthcare.
 Software engineering principles allow for software that can scale to accommodate growth and be maintained effectively over time.
